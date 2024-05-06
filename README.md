@@ -1,2 +1,2 @@
 # cw3
-#Wystawienie Perceptrona w obrazie dockerowym
+Wystawienie Perceptrona w obrazie dockerowym
